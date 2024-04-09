@@ -2,9 +2,9 @@
 - 👀 I’m interested in Entrepreneurship, Software Engineering and Cyber Security. 
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on website development and app development 
-- 📫 How to reach me email: cochimamo235@gmail.com and LinkedIn: https://www.linkedin.com/in/koket-mamo
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me by email: cochimamo235@gmail.com and LinkedIn: https://www.linkedin.com/in/koket-mamo
+- 😄 Pronouns: 👩👩‍🦱🧑‍🦱
+- ⚡ Fun fact: I love comedy 🤫.
 
 <!---
 Cochiety/Cochiety is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
